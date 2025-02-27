@@ -1,0 +1,13 @@
+package Gun01;
+
+public class LoginTesti {
+    public static void main(String[] args) {
+
+        // bu bölüm login testi için, yeni şifre modeline göre yazdı
+        System.out.println("yeni Login testi");
+
+        // çok satır yazdım ve kodları bitirdim
+        System.out.println("Login testi 1");
+
+    }
+}
